@@ -115,7 +115,7 @@ export const managers = [
       "name": "Daniel 'Jewski' Gajewski",
      
       "location": "Dirty Duval", // (optional)
-      "bio": "Holds the most significant honor of winning the league in it's atart up year.",
+      "bio": "Holds the most significant honor of winning the league in it's start up year.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": "2022", // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "Jacksonville Jaguars", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
