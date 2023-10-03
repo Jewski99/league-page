@@ -134,7 +134,7 @@ export const managers = [
     },
      {
       "managerID": "762167835433840640",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Braedan Popp",
+      "name": "Ethan Calderarelli",
      
       "location": "World Golf Village", // (optional)
       "bio": "The most average fantasy manager around. I will fleece you in trades.",
